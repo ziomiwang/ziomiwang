@@ -16,15 +16,10 @@ Software Developer 🔹
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-However, I'm also intensively exploring such topics like (among other things): \
-🔹 RabbitMQ \ 
-🔹 Nginx \
+However, I'm also intensively exploring such topics like (among other things):\
+🔹 RabbitMQ\ 
+🔹 Nginx\
 🔹 Docker & Docker Compose
-
-## The List of My Repositories With Topics
-
-I have more than 100 different demo repos. Here's the index with tags:
-<a href="https://github.com/piomin/repo-index">Index</a>
 
 ## Find Me Around The Web 🌍
 
