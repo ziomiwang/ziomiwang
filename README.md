@@ -17,7 +17,7 @@ Software Developer 🔹
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 However, I'm also intensively exploring such topics like (among other things):\
-🔹 RabbitMQ\ 
+🔹 RabbitMQ\
 🔹 Nginx\
 🔹 Docker & Docker Compose
 
