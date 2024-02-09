@@ -30,9 +30,3 @@ I have more than 100 different demo repos. Here's the index with tags:
 
 - 🔗 [Linkedin](https://www.linkedin.com/in/marcel-archutowski-49bb28238/)
 - 📫 [E-mail](mailto:marcel.archutowski@gmail.com)
-
-## My GitHub Stats
-
-<a href="https://github.com/piomin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziomiwang&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
-</a>
